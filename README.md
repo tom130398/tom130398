@@ -3,6 +3,27 @@
 ## About me 😄:
 My name is Hoang, a graduated IT student. Originally, I am from Hanoi, Viet Nam but now I am living in Vaasa, Finland.
 
+<details>
+<summary>📊 Recent Github Activity</summary>
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=tom130398&layout=compact&langs_count=10&show_icons=true&locale=en&theme=cobalt"
+      alt="tom130398"
+    />
+  </p>
+</details>
+
+<details>
+  <summary>📈 Github stats</summary>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=tom130398&show_icons=true&locale=en&theme=cobalt"
+      alt="tom130398"
+    />
+  </p>
+</details>
+
 ## Work experience 🔭:
 |      Company   |    Position    |    Main responsibilities |  Duration  |
 |---------------------|------------------|------------------|---|
