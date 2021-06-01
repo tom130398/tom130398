@@ -27,6 +27,7 @@ My name is Hoang, a graduated IT student. Originally, I am from Hanoi, Viet Nam 
 ## Work experience 🔭:
 |      Company   |    Position    |    Main responsibilities |  Duration  |
 |---------------------|------------------|------------------|---|
+| **Thermo Fisher Scientific**  | Embedded Software Engineer | •	Develop software for multiscan devices that used in medical field and research purposes.| January 2021 - Present |
 | **Wartsila Oyj** | Robotic Process Automation Trainee | •	Develop software using REACT and Django to automate business process.<br>•	Investigate, build, and pilot a low code system for enterprise development.|December 2019 - May 2020 |
 | **FPT Software LTD**  | Summer Trainee | •	Develop system with C/C++ on Cortex M0+ CPU - NXP MKL46Z.<br>•	Manage and parse data to bootloader.<br>•	Work with NXP Secure Gateway Demonstrator Platform to create secure connections between devices in autonomous car.| June 2019 - August 2019 |
 
